@@ -1,1 +1,1 @@
-A README.md file, at the root of the folder of the project is mandatory
+learning static library in C
